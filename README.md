@@ -12,32 +12,41 @@
 ## 🚀 Projects
 
 <div align="center">
-    <div style="display: flex; flex-direction: column; align-items: flex-start; width: 80%; margin: auto; padding-bottom: 10px; border-bottom: 1px solid #e0e0e0;">
-        <h4 style="font-size: 1.1em; margin-bottom: 5px;">CodingBucks</h4>
-        <p style="font-size: 0.9em; color: #555;">Tech Stack: NodeJS, React, MongoDB, Express</p>
-        <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0; font-size: 0.95em;">
-            <li>Online coding contest platform.</li>
-            <li>15+ optimized & secure RESTful APIs.</li>
-            <li>Real-time leaderboards and gamification.</li>
-            <li>30% reduction in API response time.</li>
-            <li>40% increase in user engagement.</li>
-        </ul>
-        <div align="center">
-            <img src="https://user-images.githubusercontent.com/61289382/118789731-a4778100-b8d4-11eb-8e5e-5b58149e2378.gif" alt="CodingBucks" width="400"/>
+    <div style="display: flex;  width: 80%; margin: auto;  padding-bottom: 20px; ">
+        <div style="width: 40%; padding-right: 20px;">
+            <h4 style="font-size: 1.2em;  margin-bottom: 10px;">CodingBucks</h4>
+            <p style="font-size: 0.9em; color: #555;">Tech Stack: NodeJS, React, MongoDB, Express</p>
+<!--              <div align="center">
+                 <img src="https://user-images.githubusercontent.com/61289382/118789731-a4778100-b8d4-11eb-8e5e-5b58149e2378.gif" alt="CodingBucks" width="400"/>
+            </div> -->
+        </div>
+        <div style="width: 60%;">
+            <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0; font-size: 0.95em;">
+                <li>Online coding contest platform.</li>
+                <li>15+ optimized & secure RESTful APIs.</li>
+                <li>Real-time leaderboards and gamification.</li>
+                <li>30% reduction in API response time.</li>
+                <li>40% increase in user engagement.</li>
+            </ul>
         </div>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: flex-start; width: 80%; margin: auto; padding-top: 10px;">
-        <h4 style="font-size: 1.1em; margin-bottom: 5px;">Agricultural Disease Forecasting System</h4>
-        <p style="font-size: 0.9em; color: #555;">Tech Stack: ML, Python, CNN</p>
-        <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0; font-size: 0.95em;">
-            <li>Predictive analytics for potato plant diseases.</li>
-            <li>Published research paper.</li>
-            <li>Data-driven insights for agricultural decisions.</li>
-        </ul>
-        
+    <div style="display: flex;  width: 80%; margin: auto;  padding-top: 20px;">
+        <div style="width: 40%; padding-right: 20px;">
+             <h4 style="font-size: 1.2em;  margin-bottom: 10px;">Agricultural Disease Forecasting System</h4>
+            <p style="font-size: 0.9em; color: #555;">Tech Stack: ML, Python, CNN</p>
+<!--              <div align="center">
+                 <img src="https://user-images.githubusercontent.com/88782389/168779433-e5997b91-f155-441c-b7ef-477484345a98.png" alt="Agricultural Disease Forecasting System" width="400"/>
+            </div> -->
+        </div>
+        <div style="width: 60%;">
+            <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0; font-size: 0.95em;">
+                <li>Predictive analytics for potato plant diseases.</li>
+                <li>Published research paper.</li>
+                <li>Data-driven insights for agricultural decisions.</li>
+            </ul>
+        </div>
     </div>
 </div>
-
 
 ## 💼 Experience
 
@@ -64,50 +73,28 @@
     </div>
 </div>
 
-
 ## 🏆 Achievements
 
 <div align="center">
     <table border=0 style="border: 0; width: 80%; margin: auto;">
         <tr>
             <td align="center">
-                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Graduate_Aptitude_Test_in_Engineering_%28GATE%29_logo.svg/1200px-Graduate_Aptitude_Test_in_Engineering_%28GATE%29_logo.svg/1200px-Graduate_Aptitude_Test_in_Engineering_%28GATE%29_logo.svg.png" alt="GATE" width="100">
+<!--                 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Graduate_Aptitude_Test_in_Engineering_%28GATE%29_logo.svg/1200px-Graduate_Aptitude_Test_in_Engineering_%28GATE%29_logo.svg/1200px-Graduate_Aptitude_Test_in_Engineering_%28GATE%29_logo.svg.png" alt="GATE" width="100"> -->
                 <p>GATE 2024 Qualified</p>
             </td>
             <td align="center">
-                <img src="https://sih.gov.in/img/sih-logo.png" alt="SIH" width="100">
+<!--                 <img src="https://sih.gov.in/img/sih-logo.png" alt="SIH" width="100"> -->
                 <p>Top 15 Finalist - Smart India Hackathon</p>
             </td>
             <td align="center">
-                <img src="https://img.shields.io/badge/Salesforce-007169?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" width="100">
+<!--                 <img src="https://img.shields.io/badge/Salesforce-007169?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" width="100"> -->
                 <p>Salesforce Certified</p>
             </td>
         </tr>
     </table>
 </div>
 
-## 🏆 Achievements
-
-<div align="center">
-    <table border=0 style="border: 0; width: 80%; margin: auto;">
-        <tr>
-            <td align="center">
-                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Graduate_Aptitude_Test_in_Engineering_%28GATE%29_logo.svg/1200px-Graduate_Aptitude_Test_in_Engineering_%28GATE%29_logo.svg/1200px-Graduate_Aptitude_Test_in_Engineering_%28GATE%29_logo.svg.png" alt="GATE" width="100">
-                <p>GATE 2024 Qualified</p>
-            </td>
-            <td align="center">
-                <img src="https://sih.gov.in/img/sih-logo.png" alt="SIH" width="100">
-                <p>Top 15 Finalist - Smart India Hackathon</p>
-            </td>
-            <td align="center">
-                <img src="https://img.shields.io/badge/Salesforce-007169?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" width="100">
-                <p>Salesforce Certified</p>
-            </td>
-        </tr>
-    </table>
-</div>
-
-Feel free to explore my repositories and reach out if you have any questions or would like to collaborate!
+Feel free to explore my repositories and reach out if you have any questions or want to collaborate!
 
 
 ## 🌐 Socials:
@@ -116,7 +103,6 @@ Feel free to explore my repositories and reach out if you have any questions or 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mandepsingh&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mandepsingh&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mandepsingh&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
