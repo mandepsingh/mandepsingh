@@ -1,5 +1,113 @@
-# 💫 About Me:
-Driven IT graduate from MAIT '23 (9.1 CGPA) 👨‍🎓.<br><br>Passionate about building innovative solutions:<br><br>CodingBucks 🏆 (NodeJS, React, MongoDB, Express): An online coding contest platform with 15+ optimized & secure APIs 🔗 (30% faster, 50% more secure), boosting user engagement by 40% with real-time leaderboards and gamification 🎉.    <br><br>Agricultural Disease Forecasting System 🌱 (ML/CNN, Python): Predictive analytics for potato diseases, resulting in a published research paper 🔬.    <br><br>Currently at Accenture 🏢 as a Packaged App Development Associate (Jun '19 - Oct '23) 💼, I developed LWC components ⚛️ for healthcare, managed Salesforce ⚙️, and automated API error handling (70% effort saved 🚀).  I also contributed to a GenAI test script tool in a Salesforce Hackathon 💡.  Previously, as a Development Intern at One24 💻 (Jun '21 - Sep '21), I built a React/TypeScript dashboard for MongoDB 📊 (10x faster data insights) and deployed RESTful APIs 🔗.    <br><br>GATE 2024 qualified 🥇, Smart India Hackathon finalist 🏅, and certified Salesforce Administrator & Platform Developer I ☁️.    <br><br>Eager to contribute to impactful projects! 🌱
+<div align="center">
+<!--     <img src="https://img.freepik.com/free-vector/web-development-concept-with-programmer-ar_107791-17049.jpg?t=st=1746341628~exp=1746345228~hmac=326dca67229987ad1a60aaacab154c6c9ef70cd6b43189554ed42afb63d840ac&w=1480" alt="Mandeep Singh" width="150" style="border-radius: 50%;"/> -->
+  <a href="https://leetcode.com/hapysingh" target="_blank">
+        <img src="https://cdn.sanity.io/images/oaglaatp/production/fe299a608603b8364a6ed4e20916cd6da1c9ec74-5001x3334.jpg?w=5001&h=3334&auto=format" alt="LeetCode" width="100">
+    </a>
+  <h1 style="font-size: 2em;">Mandeep Singh</h1>
+    <p style="font-size: 1.2em;">👋 Hello! I'm a passionate and driven IT professional with a strong foundation in software engineering and like to innovative solutions.</p>
+    
+</div>
+
+
+## 🚀 Projects
+
+<div align="center">
+    <div style="display: flex; flex-direction: column; align-items: flex-start; width: 80%; margin: auto; padding-bottom: 10px; border-bottom: 1px solid #e0e0e0;">
+        <h4 style="font-size: 1.1em; margin-bottom: 5px;">CodingBucks</h4>
+        <p style="font-size: 0.9em; color: #555;">Tech Stack: NodeJS, React, MongoDB, Express</p>
+        <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0; font-size: 0.95em;">
+            <li>Online coding contest platform.</li>
+            <li>15+ optimized & secure RESTful APIs.</li>
+            <li>Real-time leaderboards and gamification.</li>
+            <li>30% reduction in API response time.</li>
+            <li>40% increase in user engagement.</li>
+        </ul>
+        <div align="center">
+            <img src="https://user-images.githubusercontent.com/61289382/118789731-a4778100-b8d4-11eb-8e5e-5b58149e2378.gif" alt="CodingBucks" width="400"/>
+        </div>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: flex-start; width: 80%; margin: auto; padding-top: 10px;">
+        <h4 style="font-size: 1.1em; margin-bottom: 5px;">Agricultural Disease Forecasting System</h4>
+        <p style="font-size: 0.9em; color: #555;">Tech Stack: ML, Python, CNN</p>
+        <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0; font-size: 0.95em;">
+            <li>Predictive analytics for potato plant diseases.</li>
+            <li>Published research paper.</li>
+            <li>Data-driven insights for agricultural decisions.</li>
+        </ul>
+        
+    </div>
+</div>
+
+
+## 💼 Experience
+
+<div align="center">
+    <div style="display: flex; flex-direction: column; align-items: flex-start; width: 80%; margin: auto; padding-bottom: 10px; border-bottom: 1px solid #e0e0e0;">
+        <h4 style="font-size: 1.1em; margin-bottom: 5px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Accenture_logo.svg" alt="Mandeep Singh" width="150" style="border-radius: 50%;"/></h4>
+        <p style="font-size: 0.2em; color: #555;">Packaged App Development Associate (Jun 2019 - Oct 2023)</p>
+        <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0; font-size: 0.95em;">
+            <li>Developed LWC components for a Healthcare System.</li>
+            <li>Managed Salesforce Administration.</li>
+            <li>Automated API error handling (70% reduction in manual effort).</li>
+            <li>Contributed to a GenAI-powered automated test script generation tool.</li>
+        </ul>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: flex-start; width: 80%; margin: auto; padding-top: 10px;">
+        <h4 style="font-size: 1.1em; margin-bottom: 5px;">One24</h4>
+        <p style="font-size: 0.2em; color: #555;">Development Engineer Intern (Jun 2021 - Sep 2021)</p>
+        <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0; font-size: 0.95em;">
+            <li>Implemented a React/TypeScript dashboard for MongoDB.</li>
+            <li>Engineered and deployed RESTful APIs.</li>
+            <li>Improved data understanding time by 10x.</li>
+        </ul>
+    </div>
+</div>
+
+
+## 🏆 Achievements
+
+<div align="center">
+    <table border=0 style="border: 0; width: 80%; margin: auto;">
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Graduate_Aptitude_Test_in_Engineering_%28GATE%29_logo.svg/1200px-Graduate_Aptitude_Test_in_Engineering_%28GATE%29_logo.svg/1200px-Graduate_Aptitude_Test_in_Engineering_%28GATE%29_logo.svg.png" alt="GATE" width="100">
+                <p>GATE 2024 Qualified</p>
+            </td>
+            <td align="center">
+                <img src="https://sih.gov.in/img/sih-logo.png" alt="SIH" width="100">
+                <p>Top 15 Finalist - Smart India Hackathon</p>
+            </td>
+            <td align="center">
+                <img src="https://img.shields.io/badge/Salesforce-007169?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" width="100">
+                <p>Salesforce Certified</p>
+            </td>
+        </tr>
+    </table>
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+    <table border=0 style="border: 0; width: 80%; margin: auto;">
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Graduate_Aptitude_Test_in_Engineering_%28GATE%29_logo.svg/1200px-Graduate_Aptitude_Test_in_Engineering_%28GATE%29_logo.svg/1200px-Graduate_Aptitude_Test_in_Engineering_%28GATE%29_logo.svg.png" alt="GATE" width="100">
+                <p>GATE 2024 Qualified</p>
+            </td>
+            <td align="center">
+                <img src="https://sih.gov.in/img/sih-logo.png" alt="SIH" width="100">
+                <p>Top 15 Finalist - Smart India Hackathon</p>
+            </td>
+            <td align="center">
+                <img src="https://img.shields.io/badge/Salesforce-007169?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" width="100">
+                <p>Salesforce Certified</p>
+            </td>
+        </tr>
+    </table>
+</div>
+
+Feel free to explore my repositories and reach out if you have any questions or would like to collaborate!
 
 
 ## 🌐 Socials:
