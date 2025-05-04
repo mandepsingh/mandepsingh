@@ -15,7 +15,7 @@
     <div style="display: flex;  width: 80%; margin: auto;  padding-bottom: 20px; ">
         <div style="width: 40%; padding-right: 20px;">
             <h4 style="font-size: 1.2em;  margin-bottom: 10px;">
-                <a href="https://github.com/your-repo/codingbucks" style="color: inherit; text-decoration: none;">CodingBucks</a>
+                <a href="https://deluxe-cocada-3bd60d.netlify.app/" style="color: inherit; text-decoration: none;">CodingBucks</a>
             </h4>
             <p style="font-size: 0.9em; color: #555;">Tech Stack: NodeJS, React, MongoDB, Express</p>
 <!--              <div align="center">
