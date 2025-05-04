@@ -14,7 +14,9 @@
 <div align="center">
     <div style="display: flex;  width: 80%; margin: auto;  padding-bottom: 20px; ">
         <div style="width: 40%; padding-right: 20px;">
-            <h4 style="font-size: 1.2em;  margin-bottom: 10px;">CodingBucks</h4>
+            <h4 style="font-size: 1.2em;  margin-bottom: 10px;">
+                <a href="https://github.com/your-repo/codingbucks" style="color: inherit; text-decoration: none;">CodingBucks</a>
+            </h4>
             <p style="font-size: 0.9em; color: #555;">Tech Stack: NodeJS, React, MongoDB, Express</p>
 <!--              <div align="center">
                  <img src="https://user-images.githubusercontent.com/61289382/118789731-a4778100-b8d4-11eb-8e5e-5b58149e2378.gif" alt="CodingBucks" width="400"/>
@@ -32,7 +34,8 @@
     </div>
     <div style="display: flex;  width: 80%; margin: auto;  padding-top: 20px;">
         <div style="width: 40%; padding-right: 20px;">
-             <h4 style="font-size: 1.2em;  margin-bottom: 10px;">Agricultural Disease Forecasting System</h4>
+             <h4 style="font-size: 1.2em;  margin-bottom: 10px;">
+               <a href="https://www.advancedscientificjournal.com/single-issue.php?pid=178" style="color: inherit; text-decoration: none;">Agricultural Disease Forecasting System</h4>
             <p style="font-size: 0.9em; color: #555;">Tech Stack: ML, Python, CNN</p>
 <!--              <div align="center">
                  <img src="https://user-images.githubusercontent.com/88782389/168779433-e5997b91-f155-441c-b7ef-477484345a98.png" alt="Agricultural Disease Forecasting System" width="400"/>
